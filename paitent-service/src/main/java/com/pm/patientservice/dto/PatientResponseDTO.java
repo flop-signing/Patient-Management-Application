@@ -9,7 +9,7 @@ public record PatientResponseDTO(
         String name,
         String email,
         String address,
-        LocalDate dateOfBirth
+        String dateOfBirth
 
 ) {
 
